@@ -1,0 +1,14 @@
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Aplication\bin\Debug\netcoreapp2.2\SafeWeb_Aplication.deps.json
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Aplication\bin\Debug\netcoreapp2.2\SafeWeb_Aplication.dll
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Aplication\bin\Debug\netcoreapp2.2\SafeWeb_Aplication.pdb
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Aplication\bin\Debug\netcoreapp2.2\SafeWeb.CrossCutting.Security.dll
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Aplication\bin\Debug\netcoreapp2.2\SafeWeb_Domain.dll
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Aplication\bin\Debug\netcoreapp2.2\SafeWeb_Domain.pdb
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Aplication\bin\Debug\netcoreapp2.2\SafeWeb.CrossCutting.Security.pdb
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Aplication\obj\Debug\netcoreapp2.2\SafeWeb_Aplication.csprojAssemblyReference.cache
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Aplication\obj\Debug\netcoreapp2.2\SafeWeb_Aplication.csproj.CoreCompileInputs.cache
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Aplication\obj\Debug\netcoreapp2.2\SafeWeb_Aplication.AssemblyInfoInputs.cache
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Aplication\obj\Debug\netcoreapp2.2\SafeWeb_Aplication.AssemblyInfo.cs
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Aplication\obj\Debug\netcoreapp2.2\SafeWeb_Aplication.csproj.CopyComplete
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Aplication\obj\Debug\netcoreapp2.2\SafeWeb_Aplication.dll
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Aplication\obj\Debug\netcoreapp2.2\SafeWeb_Aplication.pdb

@@ -1,0 +1,35 @@
+<!--Navbar-->
+<mdb-navbar SideClass="navbar navbar-expand-lg navbar-dark unique-color" [containerInside]="false">
+
+    <!-- Navbar brand -->
+    <mdb-navbar-brand><a class="navbar-brand" routerLink="/home">Gestão de Compras</a></mdb-navbar-brand>
+
+    <!-- Collapsible content -->
+    <links>
+
+        <!-- Links -->
+        <ul class="navbar-nav mr-auto">
+            <!-- Dropdown -->
+            <li class="nav-item dropdown" dropdown>
+                <a dropdownToggle mdbWavesEffect type="button" class="nav-link dropdown-toggle waves-light"
+                    mdbWavesEffect>
+                    <strong>Gestão de Usuarios</strong><span class="caret"></span></a>
+                <div *dropdownMenu class="dropdown-menu dropdown dropdown-primary" role="menu">
+                    <a class="dropdown-item waves-light" mdbWavesEffect routerLink="/usuario/listagem">Lista de
+                        Usuarios</a>
+                </div>
+            </li>
+
+        </ul>
+
+        <div class="form-inline waves-light" mdbWavesEffect>
+            <div class="md-form my-0 nav-item">
+                <a routerLink="" class="nav-link waves-light" style="color:white; font-weight: bold;">Sair</a>
+            </div>
+        </div>
+        <!-- Links -->
+    </links>
+    <!-- Collapsible content -->
+
+</mdb-navbar>
+<!--/.Navbar-->

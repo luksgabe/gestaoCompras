@@ -1,0 +1,8 @@
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Domain\bin\Debug\netcoreapp2.2\SafeWeb_Domain.deps.json
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Domain\bin\Debug\netcoreapp2.2\SafeWeb_Domain.dll
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Domain\bin\Debug\netcoreapp2.2\SafeWeb_Domain.pdb
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Domain\obj\Debug\netcoreapp2.2\SafeWeb_Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Domain\obj\Debug\netcoreapp2.2\SafeWeb_Domain.AssemblyInfoInputs.cache
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Domain\obj\Debug\netcoreapp2.2\SafeWeb_Domain.AssemblyInfo.cs
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Domain\obj\Debug\netcoreapp2.2\SafeWeb_Domain.dll
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb_Domain\obj\Debug\netcoreapp2.2\SafeWeb_Domain.pdb

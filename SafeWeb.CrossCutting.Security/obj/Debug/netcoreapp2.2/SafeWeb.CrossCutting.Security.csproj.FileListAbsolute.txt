@@ -1,0 +1,8 @@
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb.CrossCutting.Security\bin\Debug\netcoreapp2.2\SafeWeb.CrossCutting.Security.deps.json
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb.CrossCutting.Security\bin\Debug\netcoreapp2.2\SafeWeb.CrossCutting.Security.dll
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb.CrossCutting.Security\bin\Debug\netcoreapp2.2\SafeWeb.CrossCutting.Security.pdb
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb.CrossCutting.Security\obj\Debug\netcoreapp2.2\SafeWeb.CrossCutting.Security.csproj.CoreCompileInputs.cache
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb.CrossCutting.Security\obj\Debug\netcoreapp2.2\SafeWeb.CrossCutting.Security.AssemblyInfoInputs.cache
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb.CrossCutting.Security\obj\Debug\netcoreapp2.2\SafeWeb.CrossCutting.Security.AssemblyInfo.cs
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb.CrossCutting.Security\obj\Debug\netcoreapp2.2\SafeWeb.CrossCutting.Security.dll
+D:\Projetos\SafeWeb\SafeWeb\SafeWeb.CrossCutting.Security\obj\Debug\netcoreapp2.2\SafeWeb.CrossCutting.Security.pdb

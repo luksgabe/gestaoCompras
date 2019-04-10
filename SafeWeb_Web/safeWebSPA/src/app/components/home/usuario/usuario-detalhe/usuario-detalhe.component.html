@@ -1,0 +1,64 @@
+<app-navbar></app-navbar>
+
+<div class="container">
+    <h2>Salvar Contato</h2>
+
+    <form (ngSubmit)="onSubmit()">
+        <div class="row">
+            <div class="input-group mb-3 col-md-6">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="inputGroup-sizing-default">Nome</span>
+                </div>
+                <input type="text" class="form-control" placeholder="Nome" name="nome" [(ngModel)]="usuario.nome"
+                    aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="input-group mb-3 col-md-6">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="inputGroup-sizing-default">Cpf</span>
+                </div>
+                <input type="text" class="form-control" placeholder="Cpf" name="cpf" [(ngModel)]="usuario.cpf"
+                    aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" maxlength="14">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="input-group mb-3 col-md-6">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="inputGroup-sizing-default">Data de Nascimento</span>
+                </div>
+                <input type="datetime-local" class="form-control" placeholder="Data de Nascimento" name="dataNascimento"
+                    [(ngModel)]="usuario.dataNascimento" aria-label="Sizing example input"
+                    aria-describedby="inputGroup-sizing-default">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="input-group mb-3 col-md-6">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="inputGroup-sizing-default">Perfil</span>
+                </div>
+                <input type="text" class="form-control" placeholder="Perfil" name="perfil" [(ngModel)]="usuario.perfil"
+                    aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="input-group mb-3 col-md-6">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="inputGroup-sizing-default">Login</span>
+                </div>
+                <input type="text" class="form-control" placeholder="Login" name="login" [(ngModel)]="usuario.login"
+                    aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="input-group mb-3 col-md-6">
+                <button class="btn btn-default">Salvar</button>
+            </div>
+        </div>
+    </form>
+</div>
